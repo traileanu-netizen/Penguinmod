@@ -9,7 +9,7 @@
     if (!Scratch.extensions.unsandboxed) {
         alert("This extension needs to be unsandboxed to run!")
         return
-    }
+    } 
 
     const ExtForge = {
         Broadcasts: new function() {
