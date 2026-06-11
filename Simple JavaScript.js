@@ -332,6 +332,5 @@
 
         };
     };
-
     Scratch.extensions.register(new Extension());
 })(Scratch);
