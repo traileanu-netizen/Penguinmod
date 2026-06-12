@@ -135,4 +135,4 @@ class GoogleAuthExtension {
     }
 }
 
-Scratch.extensions.register(new GoogleAuthExtension()
+Scratch.extensions.register(new GoogleAuthExtension());
